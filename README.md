@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Everist Ben
+# 👋 Hi, I'm Enemuoh Everistus 
 
 🚀 **Full-Stack Developer | Cloud & DevOps Engineer**
 
