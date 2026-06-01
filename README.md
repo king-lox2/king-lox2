@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Enemuoh Everistus 
 
-🚀 **Full-Stack Developer | Cloud & DevOps Engineer**
+🚀 **Full-Stack Developer | Aspiring Cloud & DevOps Engineer**
 
 I build and deploy web applications, from intuitive frontends to robust backend APIs, with a strong focus on **cloud infrastructure and automation**.
 
@@ -38,7 +38,6 @@ I build and deploy web applications, from intuitive frontends to robust backend 
 * AWS (EC2, S3, CloudFront)
 * GitHub Actions (CI/CD)
 * Docker
-* Linux
 
 ### 🔧 Tools
 
