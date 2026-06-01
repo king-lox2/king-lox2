@@ -72,14 +72,6 @@ I build and deploy web applications, from intuitive frontends to robust backend 
 
 ---
 
-## 📈 Currently Growing In
-
-* Advanced Cloud Architecture
-* Infrastructure as Code (Terraform, etc.)
-* System Design
-
----
-
 ## 🤝 Opportunities
 
 I’m open to roles in:
